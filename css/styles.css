@@ -1,0 +1,51 @@
+.btn-red {
+  background-color: rgb(170, 23, 23);
+  height: 50px;
+  width: 50px;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+}
+
+.btn-green {
+  background-color: rgb(36, 120, 47);
+  height: 50px;
+  width: 50px;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+}
+
+.btn-blue {
+  background-color: rgb(28, 47, 173);
+  height: 50px;
+  width: 50px;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+}
+
+.btn-yellow {
+  background-color: rgb(198, 190, 18);
+  height: 50px;
+  width: 50px;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+}
+
+.light-red {
+  background-color: rgb(255, 0, 0);
+}
+
+.light-green {
+  background-color: rgb(38, 175, 56);
+}
+
+.light-blue {
+  background-color: rgb(26, 82, 250);
+}
+
+.light-yellow {
+  background-color: rgb(255, 253, 18);
+}
